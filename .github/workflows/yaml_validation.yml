@@ -11,4 +11,15 @@ jobs:
         with:
           github_token: ${{ secrets.github_token }}
           reporter: github-pr-review # Change reporter.
-          yamllint_flags: '-c .yamllint.yml lib/'
+          yamllint_flags: 'lib/'
+          # Inline configuration including both line length and indentation rules
+          config_data: |
+            {
+              "extends": "relaxed",
+              "rules":
+                "indentation": {
+                  "spaces": 2,
+                  "indent-sequences": "consistent"
+                }
+              }
+            }
