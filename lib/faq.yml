@@ -1,7 +1,7 @@
 faq:
   - command: "buy"
     description: "Where to buy Peercoin?"
-    answer: "Coinmarketcap has the most up to date list of exchanges where PPC is traded and you can purchase PPC from: https://coinmarketcap.com/currencies/peercoin/#Markets"
+    answer: "Coinmarketcap has the most up to date list of exchanges where PPC is traded and you can purchase PPC from: https://coinmarketcap.com/currencies/peercoin/#Markets\nYou can also by Peercoin with a credit card at https://buy.peercoin.net"
   - command: "trade"
     description: "Where to Trade Peercoin?"
     answer: "Coinmarketcap has the most up to date list of exchanges where PPC is traded: https://coinmarketcap.com/currencies/peercoin/#Markets"
