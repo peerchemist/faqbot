@@ -12,7 +12,7 @@ faq:
     description: "How to wrap Peercoin?"
     answer: "Wrapmeister is a software that allows for cross-blockchain communication between Peercoin and Ethereum. Visit bridge.peercoin.net to use it and \nread more about it here: https://www.peercoin.net/blog/wrapmeister-bridge-introduction/"
   - command: "stake"
-    description: "How to mint Peercoin?"
+    description: "How to tint Peercoin?"
     answer: "You need some coins, and a Peercoin-qt wallet. And here is a tutorial on how to mint Peercoin https://www.peercoin.net/blog/peercoin-minting-tutorial/"
   - command: "mobile"
     description: "Peercoin mobile wallet"
