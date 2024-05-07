@@ -20,3 +20,6 @@ faq:
   - command: "donate"
     description: "How to donate to Peercoin Foundation?"
     answer: "If you would like to support the development of Peercoin, or would simply like to support the team, you can donate here https://www.peercoin.net/foundation?ref=peercoin.net \nThank you!"
+  - command: "whatis"
+    description: "What is Peercoin?"
+    answer: "Peercoin, launched in August 2012, is the world's first cryptocoin secured by Proof of Stake. It stands as an energy-efficient digital store of value, enabling online transactions without relying on a central authority. \nOwning Peercoins grants active participation in the proof-of-stake consensus, offering the opportunity to create new blocks and earn rewards. \nTo learn more visit https://peercoin.net"
