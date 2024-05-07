@@ -23,3 +23,6 @@ faq:
   - command: "whatis"
     description: "What is Peercoin?"
     answer: "Peercoin, launched in August 2012, is the world's first cryptocoin secured by Proof of Stake. It stands as an energy-efficient digital store of value, enabling online transactions without relying on a central authority. \nOwning Peercoins grants active participation in the proof-of-stake consensus, offering the opportunity to create new blocks and earn rewards. \nTo learn more visit https://peercoin.net"
+  - command: "first"
+    description: "Is Peercoin really the first blockchain to be secure by Proof of Stake?"
+    answer: "Yes, indeed, Peercoin is credited as the first cryptocurrency to introduce a proof-of-stake system as its blockchain security protocol. This system, which Peercoin implemented alongside the more traditional proof-of-work system, allows coin holders to validate transactions and create new blocks based on the number of coins they hold. This was a significant innovation at the time of its launch in 2012, aiming to reduce energy consumption and increase security compared to networks relying solely on proof-of-work."
