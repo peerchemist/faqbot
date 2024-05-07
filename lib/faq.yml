@@ -7,7 +7,7 @@ faq:
     answer: "Coinmarketcap has the most up to date list of exchanges where PPC is traded: https://coinmarketcap.com/currencies/peercoin/#Markets"
   - command: "mine"
     description: "How to mine Peercoin?"
-    answer: "Peercoin is mined with stadard sha256 ASIC machines. Just like Bitcoin or Bitcoin Cash. Here is a tutorial on how to mine Peercoin: https://www.peercoin.net/blog/mining-peercoin-at-home/"
+    answer: "Peercoin is mined with standard sha256 ASIC machines. Just like Bitcoin or Bitcoin Cash. Here is a tutorial on how to mine Peercoin: https://www.peercoin.net/blog/mining-peercoin-at-home/"
   - command: "wrap"
     description: "How to wrap Peercoin?"
     answer: "Wrapmeister is a software that allows for cross-blockchain communication between Peercoin and Ethereum. Visit bridge.peercoin.net to use it and \nread more about it here: https://www.peercoin.net/blog/wrapmeister-bridge-introduction/"
