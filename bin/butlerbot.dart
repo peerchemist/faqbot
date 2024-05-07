@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'dart:math';
 import 'package:televerse/telegram.dart';
 import 'package:televerse/televerse.dart';
 import 'package:butlerbot/butlerbot.dart';
@@ -14,6 +15,9 @@ List<BotCommand> assembleBotCommands(List<FAQEntry> faqs) {
     // Create a new BotCommand using the question as command and description as description
     commands.add(BotCommand(command: command, description: faq.description));
   }
+
+  // Randomize the list of commands before returning
+  commands.shuffle(Random());
 
   return commands;
 }
