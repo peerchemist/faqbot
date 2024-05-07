@@ -34,7 +34,7 @@ faq:
     answer: "Peercoin is a coin. There is no allocation. Team: 0% Foundation: 0% Investors: 0% Advisors: 0% Ecosystem: 0% Marketing: 0%, Free Market: 100%"
   - command: "ico"
     description: "Was there an ICO?"
-    answer: "ICOs create central points of failure for Proof of Stake systems. Peercoin has been fairly distributing coins since 2012."
+    answer: "No, ICOs create central points of failure for Proof of Stake systems. Peercoin has been fairly distrubuted through PoW mining and PoS minting since 2012."
   - command: "inflation"
     description: "What is the inflation rate?"
     answer: "The current annualized inflation rate is approximately 2.5%, with 1% attributed to proof of stake and the remaining 1.5% stemming from PoW (Proof of Work) block rewards. \nLearn more at https://charts.peercoinexplorer.net/annualinflation/6/linear/default"
