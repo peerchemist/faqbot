@@ -26,3 +26,6 @@ faq:
   - command: "first"
     description: "Is Peercoin really the first blockchain to be secure by Proof of Stake?"
     answer: "Yes, indeed, Peercoin is credited as the first cryptocurrency to introduce a proof-of-stake system as its blockchain security protocol. This system, which Peercoin implemented alongside the more traditional proof-of-work system, allows coin holders to validate transactions and create new blocks based on the number of coins they hold. This was a significant innovation at the time of its launch in 2012, aiming to reduce energy consumption and increase security compared to networks relying solely on proof-of-work."
+  - command: "roadmap"
+    description: "Is there a roadmap?"
+    answer: "We don't do roadmaps, but here is a kind of a roadmap: https://www.peercoin.net/blog/kind-of-a-roadmap-1/"
