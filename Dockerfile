@@ -9,7 +9,7 @@ COPY . .
 RUN dart pub get --offline
 
 # Build the application:
-RUN dart compile exe bin/main.dart -o bin/bot
+RUN dart compile exe bin/butlerbot.dart -o bin/bot
 
 # Build minimal runtime image:
 FROM scratch
