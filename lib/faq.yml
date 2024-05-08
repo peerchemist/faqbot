@@ -41,3 +41,6 @@ faq:
   - command: "foundation"
     description: "What is the role of the Peercoin Foundation?"
     answer: "The Peercoin Foundation, founded in 2018, is a non-profit organization dedicated to fostering the education, development, and advancement of the Peercoin project. Its mission is to support and empower the Peercoin community by supplying the essential tools to maintain and enhance Peercoin's longstanding reputation. \nWhile the Foundation plays a limited role within the ecosystem, it is the primary financial backer of the core Peercoin protocol development and sponsors various initiatives within the ecosystem."
+  - command: "supply"
+    description: "What is the current supply?"
+    answer: "The current supply is 28.9M. Peercoin supply is inflating at rate of about 2.5% a year. The supply in 2026 is expected to be about 30.6M and 33.1M by 2030."
