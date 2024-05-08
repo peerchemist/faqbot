@@ -39,5 +39,5 @@ faq:
     description: "What is the inflation rate?"
     answer: "The current annualized inflation rate is approximately 2.5%, with 1% attributed to proof of stake and the remaining 1.5% stemming from PoW (Proof of Work) block rewards. \nLearn more at https://charts.peercoinexplorer.net/annualinflation/6/linear/default"
   - command: "foundation"
-    description: "What is the Peercoin Foundation and what role does it play in the Peercoin ecosystem?"
+    description: "What is the role of the Peercoin Foundation?"
     answer: "The Peercoin Foundation, founded in 2018, is a non-profit organization dedicated to fostering the education, development, and advancement of the Peercoin project. Its mission is to support and empower the Peercoin community by supplying the essential tools to maintain and enhance Peercoin's longstanding reputation. \nWhile the Foundation plays a limited role within the ecosystem, it is the primary financial backer of the core Peercoin protocol development and sponsors various initiatives within the ecosystem."
