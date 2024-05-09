@@ -44,3 +44,6 @@ faq:
   - command: "supply"
     description: "What is the current supply?"
     answer: "The current supply is 28.9M. Peercoin supply is inflating at rate of about 2.5% a year. The supply in 2026 is expected to be about 30.6M and 33.1M by 2030."
+  - command: "fees"
+    description: "Explain Peercoin transaction fees"
+    answer: "Peercoin network has a fixed transaction fee of 0.01 PPC per kilobyte, which is burned rather than paid to validators, reducing the total coin supply and countering inflation from coin minting. \nTransaction fee is usually less than 0.01 PPC."
